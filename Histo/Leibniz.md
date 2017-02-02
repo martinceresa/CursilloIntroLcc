@@ -24,13 +24,13 @@ Bachelor's degree at Leipzig: thesis about Aristotelian metaphysics: relationshi
 Bachelor's degree in law. systematic logic in Law.
 
 For reasons that are not clear the Leipzig faculty refused
-to accept the dissetation. So leibniz went to Univ. of Altdorf.
+to accept the dissertation. So leibniz went to Univ. of Altdorf.
 found a wealthy patron in Baron Johann von Baneburg.
 
 In 1673 he was unanimously elected to the Royal Society of
-London based on the model he was able to exhibit of a calc macine
+London based on the model he was able to exhibit of a calc machine
 capable of carrying out the four basic ops of arithmetic.
-In 1674 he descrubed a machine that could solve algebraic equations.
+In 1674 he described a machine that could solve algebraic equations.
 
 1675: he wrote comparing logical reasoning to a mechanism. Thus
 pointing to the goal of reducing reasoning to a kind of
@@ -47,18 +47,18 @@ of the notation.
 Young Leibniz Idea: It was clear to him that the special characters
 used in arithmetic and algebra, the symbols used in chemistry and astronomy,
 and the symbols he himself had introduced for the diff and integral calculus, all provided
-a paradigm showing how crucial a tryle appropiate symbolism could be.
-Leibniz reffered to such a system of charaters as a "characteristic". 
+a paradigm showing how crucial a truly appropriate symbolism could be.
+Leibniz refereed to such a system of characters as a "characteristic". 
 Unlike the alphabetic symbols which had no meaning, the examples
 just mentioned were form him a real characteristic,
 in which each symbol represented some definite idea in a natural
-and appropiate way.
+and appropriate way.
 
 What Leibniz went after was, on the lines of serious "men of good will"
 sitting around a table to solve some critical problem. After writing
 out the problem in Leibniz's projected lang, his univ characteristic,
 it would be time to say "Let us Calculate", out would come the pens
-and a solution would be fouynd whose correctness would necessarily be accepted
+and a solution would be found whose correctness would necessarily be accepted
 by Leibniz logic calculus.
 
 For example:

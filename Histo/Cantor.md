@@ -5,7 +5,7 @@ The natural numbers are infinite.
 However, Aristotle was not willing to accept as legitimate
 the culmination of this process- the infinite set of all natural numbers.
 
-George Cantor who accepted the challenge to create a profund
+George Cantor who accepted the challenge to create a profound
 and coherent math theory of the actual infinite.
 
 Leibniz held that if such things as infinite numbers did exist, then the same
@@ -20,7 +20,7 @@ conclude that the two sets have the same number of members.
 
 But one of the most basic math principles, going back to Euclid, is that the whole is greater than any
 of its parts! Cantor and Leibniz faced the same dilemma, either it makes
-no sense to speak of the numbner of elements
+no sense to speak of the number of elements
 in an infinite set or some infinite sets
 will have the same number of elements as one of its subsets. while Leibniz
 had chosen the first, Cantor chose the second.

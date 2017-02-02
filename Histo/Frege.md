@@ -2,10 +2,10 @@
 
 Frege era Nazi!! se metió justamente donde Boole se quedó corto
 
-Frege sought a sustem of logic that included all of the
+Frege sought a system of logic that included all of the
 deductive inferences in math practice. Boole took ordinary
-algebra as his starting point and used the su,mbols of
-algenra to represent logical relations. Snce Frege
+algebra as his starting point and used the symbols of
+algebra to represent logical relations. Snce Frege
 intended algebra, like other parts of math to be built as a 
 superstructure with his logic as a foundation. Also, where
 Boole ha thought of propositions that express relations
@@ -16,7 +16,7 @@ the basis of his logic. this crucial insight
 has gained general acceptance and forms the basis of modern logic.
 
 For example Frege would analyze the sentence
-*All horses are mmamals*
+*All horses are mammals*
 using the logical relationship *if ... , then ...*:
 *if x is a horse, then x is a mammal*
 And could be written as follows:
@@ -35,4 +35,3 @@ example. A natural number is a property of a set, namely, the number
 of its elements.
 
 # Russell's paradox as the barber version.
-
