@@ -21,11 +21,11 @@ Por ejemplo, Frege analizaría la siguiente oración:
 si usamos la relación lógica *si ... , entonces ...*:
 *si x es un caballo, entonces x es un mamífero*
 Que puede ser escrita como:
-*(\para_todo x)(si x es un caballo, entonces x es un mamífero)*
+*($\forall$x)(si x es un caballa, entonces x es un mamífero)*
 La relación lógica *si ..., entonces ....* se escribe con el símbolo *=>*
-*(\forall x)(x es un caballo => x es un mamífero)*
+*($\forall$ x)(x es un caballo => x es un mamífero)*
 Finalmente podemos abreviar: 
-*(\forall x)(caballo(x) => mamífero(x))*
+*($\forall$ x)(caballo(x) => mamífero(x))*
 
 ## Frege vs Russell
 Frege quería proveer una teoría lógica como base para los números naturales
